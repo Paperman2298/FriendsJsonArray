@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Joel",
+    "hobby": "Music",
+    "age": 23,
+    "phone": 3315695139,
+    "address": "Mexico"
+  },
+  {
+    "name": "Chavez",
+    "hobby": "Drinking",
+    "age": 22,
+    "phone": 3348154698,
+    "address": "Zapopan"
+  },
+  {
+    "name": "Karla",
+    "hobby": "Partying",
+    "age": 27,
+    "phone": 3347122145,
+    "address": "Guadalajara"
+  },
+  {
+    "name": "Marifer",
+    "hobby": "Boys",
+    "age": 19,
+    "phone": 3315778459,
+    "address": "Japan"
+  },
+  {
+    "name": "Carlos",
+    "hobby": "Studying",
+    "age": 53,
+    "phone": 3339568478,
+    "address": "Monterrey"
+  },
+]
